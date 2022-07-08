@@ -1,1 +1,1 @@
-# post-manager-spring
+# Post Manager spring class
